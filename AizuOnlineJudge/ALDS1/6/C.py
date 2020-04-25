@@ -19,7 +19,6 @@ def partition(A, p, r):
     A[i], A[r] = A[r], A[i]
     return i
 
-
 def quick_sort(A, p, r):
     if p < r:
         q = partition(A, p, r)

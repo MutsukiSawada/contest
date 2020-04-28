@@ -64,7 +64,7 @@ for i in range(N):
     com = input().split()
     if com[0] == 'insert':
         insert_node(int(com[1]))
-    if com[0] == 'find':
+    elif com[0] == 'find':
         find_node(int(com[1]))
     elif com[0] == 'print':
         print_node()

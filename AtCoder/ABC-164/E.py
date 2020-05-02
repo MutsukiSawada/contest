@@ -1,1 +1,0 @@
-# E - Two Currencies

@@ -1,0 +1,3 @@
+# B - I miss you...
+
+print(''.join(['x' for _ in str(input())]))
